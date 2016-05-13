@@ -13,6 +13,10 @@ Después debes instalar TypeScript: `$ sudo npm i -g typeScript`
 
 Ejecuta `$ tsc index.js` para generar un archivo JavaScript, después abre index.html en un navegador.
 
+## Blog Post
+
+[http://unjavascripter.github.io/js,/typescript/2016/05/12/typescript-intro.html](http://unjavascripter.github.io/js,/typescript/2016/05/12/typescript-intro.html)
+
 
 ## English
 
