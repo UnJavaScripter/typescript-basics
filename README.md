@@ -18,6 +18,10 @@ Ejecuta `$ tsc index.js` para generar un archivo JavaScript, después abre index
 [http://unjavascripter.github.io/js,/typescript/2016/05/12/typescript-intro.html](http://unjavascripter.github.io/js,/typescript/2016/05/12/typescript-intro.html)
 
 
+
+
+
+
 ## English
 
 # Wut?
