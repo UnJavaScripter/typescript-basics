@@ -1,6 +1,6 @@
 ## Español
 
-# ¿Qúé es esto?
+# ¿Qué es esto?
 
 Esto es un ejemplo básico de algunas las funcionalidades básicas que TypeScript ofrece.
 
